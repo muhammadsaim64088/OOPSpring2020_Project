@@ -16,3 +16,21 @@ This project aims to bring the fun and simplicity of shooter game with some�
 - play the game from unity IDE
 - WASD to move
 - right click to fire
+## Problems Faced ##
+
+### Problem 1: animation rendering ###
+the first problem i faced that i didnt know how automatically animation will run  
+
+### Problem 2: frame setting ###
+every time i run the frame of game get out of main camera
+
+### Problem 3: bullet hit  ###
+the enemy couldnt able to get the damage when i fire 
+
+### Problem 4: sprite properties  ###
+first time creating game and trying to work on proper physic so i face so many problem setting the stripe property to act real 
+
+## References ##
+- youtube
+- unity official website FAQ
+- google
