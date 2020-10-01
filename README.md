@@ -1,3 +1,6 @@
+
+Object-Oriented Programming refers to the programming paradigm defined using objects instead of only functions and methods. The objects contain data, called fields or attributes, and methods that provide the logic or supporting code. It provides capabilities such as inheritance, polymorphism, encapsulation, abstraction.
+
 # OOPSpring2020_Project
 OOP Spring 2020 : Project
 # OOP 103330 : 	ZOMBIE 2-D SHOOTING GAME #
